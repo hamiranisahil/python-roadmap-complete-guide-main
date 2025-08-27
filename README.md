@@ -5,17 +5,17 @@
 
 * [Fundamentals of Python](#fundamentals-of-python)
 * [Working with Data](#working-with-data)
-* Input and Output
-* Data Structures
-* Making Decisions
-* Loops
-* Functions
-* Object-Oriented Programming
-* File Handling
-* Advanced Topics
-* Useful Python Modules
-* Database Connection
-* Threading & Multiprocessing
+* [Input and Output](#input-and-output)
+* [Data Structures](#data-structure)
+* [Making Decisions]
+* [Loops]
+* [Functions]
+* [Object-Oriented Programming]
+* [File Handling]
+* [Advanced Topics]
+* [Useful Python Modules]
+* [Database Connection]
+* [Threading & Multiprocessing]
 
 ### Fundamentals of Python
 - How to Install Python on Windows/ Linux/ Mac
@@ -109,3 +109,17 @@
   - [Link 3](https://www.tutorialspoint.com/python/python_dictionary.htm)
   - [Link 4](https://www.tpointtech.com/python-dictionary)
   - [Link 5](https://www.programiz.com/python-programming/dictionary)
+ 
+### Making Decisions
+- Logical Expressions
+  - [Link 1](https://www.w3schools.com/python/gloss_python_logical_operators.asp)
+  - [Link 2](https://www.geeksforgeeks.org/python/python-logical-operators/)
+  - [Link 3](https://www.programiz.com/python-programming/operators)
+  - [Link 4](https://www.tutorialspoint.com/python/python_logical_operators.htm)
+  - [Link 5](https://www.tpointtech.com/python-operators)
+- The “if...elif...else” Statement
+  - [Link 1](https://www.w3schools.com/python/python_conditions.asp)
+  - [Link 2](https://www.programiz.com/python-programming/if-elif-else)
+  - [Link 3](https://www.tutorialspoint.com/python/python_if_else.htm)
+  - [Link 4](https://www.geeksforgeeks.org/python/python-if-else/)
+  - [Link 5](https://www.tpointtech.com/python-if-else)
